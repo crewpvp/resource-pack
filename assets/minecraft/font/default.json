@@ -1362,28 +1362,10 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/login_new_pass.png",
-			"height": 190,
-			"ascent": 190,
+			"height": 174,
+			"ascent": 105,
 			"chars": [
 				"∾"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/test.png",
-			"height": 190,
-			"ascent": 190,
-			"chars": [
-				";"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/test1.png",
-			"height": 190,
-			"ascent": 190,
-			"chars": [
-				":"
 			]
 		},
 		{
